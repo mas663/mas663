@@ -36,10 +36,6 @@ I enjoy building projects that **solve real problems** while keeping the **code 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mas663&theme=radical"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="assets/footer.svg"/>
-</p>
-
 ---
 
 ### 🎮 Fun Section: Contribution Game
@@ -50,5 +46,5 @@ I enjoy building projects that **solve real problems** while keeping the **code 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
+  <img height="180em" src="assets/footer.svg"/>
 </p>
