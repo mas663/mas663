@@ -40,7 +40,7 @@ I enjoy building projects that **solve real problems** while keeping the **code 
 
 ### 🎮 Fun Section: Contribution Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mas663/mas663/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mas663/mas663/output/dist/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
