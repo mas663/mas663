@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- Header / Banner -->
+<p align="center">
+  <img src="assets/myBanner.svg" />
+</p>
 
-<!--
-**mas663/mas663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Short Intro -->
+<h3 align="center">🚀 Tech Enthusiast | Front-End Developer </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-affan-shofi-4108ba249">LinkedIn</a> •
+  <a href="https://github.com/mas663">GitHub</a> •
+  <a href="#">Portfolio Website</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+Hi there! 👋 I'm **Affan**, an Information Systems student at **ITS Surabaya** passionate about:
+
+- 💻 **Front-End Development** (Next.js, React, Tailwind)
+- 🚀 **DevOps & CI/CD** for efficient deployment
+
+I enjoy building projects that **solve real problems** while keeping the **code clean and scalable**.
+
+---
+
+### 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,flutter,tailwind,python,java,postgres,git,github,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mas663&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mas663&theme=radical"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="assets/footer.svg"/>
+</p>
+
+---
+
+### 🎮 Fun Section: Contribution Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mas663/mas663/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
+</p>
